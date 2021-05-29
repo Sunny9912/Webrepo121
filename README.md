@@ -1,2 +1,2 @@
 # Webrepo121
-FrontEnd of a basic website without JaaScript
+FrontEnd of a basic website without JavaScript
